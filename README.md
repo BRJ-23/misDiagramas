@@ -5,7 +5,7 @@
 - creamos el fichero
 - git add *.
 - git commit -m "mensaje"
-- git remote add origin "https://enlace web"
+- git remote add origin "enlace web"
 - git push origin master
 
 ## ----A partir de la segunda vez-------------
