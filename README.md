@@ -10,6 +10,6 @@
 
 ## ----A partir de la segunda vez-------------
 - creamos el fichero
-- git add.
+- git add *.
 - git commit -m "mensaje"
 - git push origin master
